@@ -1,5 +1,11 @@
 package com.example.FitLifeTech.model;
 
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+
+
+
 public class Rutina extends Usuario {
 
     private int id;
